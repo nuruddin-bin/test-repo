@@ -1,2 +1,2 @@
 # test-repo
-This repo for test git and github
+This repo is for test git and github
